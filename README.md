@@ -2,8 +2,8 @@
 Controllable wheelchair that automatically stops in front of obstacles and displays distance travelled. The PCB was custom designed and made for this project.
 
 ## Videos
-1. [Driving, turning and obstacle detection](https://drive.google.com/file/d/1e6D7PV7pSpxmNgNUrXl-kcWqP-yEV6lZ/view?usp=sharing)
-2. [User interface and increasing driving speed](https://drive.google.com/file/d/11Vimz-RV4UsF8XEiTZH0jSXhUrqdQSGc/view?usp=sharing)
+1. [Driving, turning and obstacle detection](https://www.youtube.com/watch?v=nyLQfzXbkqk&list=PLmkl7ubDbpoTQebPJLRicVcqWJH1TayuQ)
+2. [User interface and increasing driving speed](https://www.youtube.com/watch?v=LIF5RbmCl28&list=PLmkl7ubDbpoTQebPJLRicVcqWJH1TayuQ&index=2)
 
 ## Pictures
 1. Wheelchair and keypad controller close-up
