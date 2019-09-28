@@ -23,6 +23,7 @@ Controllable wheelchair that automatically stops in front of obstacles and displ
 ![](https://github.com/michaelhtleung/motorized-mini-wheelchair/blob/master/images/speed6.png)
 
 ## Tools
+- C
 - Code Composer Studio 8
 - DipTrace
 
