@@ -1,4 +1,4 @@
-# Motorized Mini Wheelchair
+# Electric Model Wheelchair
 Controllable wheelchair that automatically stops in front of obstacles and displays distance travelled. The PCB was custom designed and made for this project.
 
 ## Videos
